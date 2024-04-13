@@ -17,4 +17,4 @@ class Carte {
 }
 
 // Curs 2 Module
-// export { Carte }
+ export { Carte };
